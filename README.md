@@ -1,4 +1,4 @@
-# FAHHST-Assistant 
+# Fast-Assist
 
 FAHHST-Assistant is a personal AI voice system built in Python.
 Local. fast. no nonsense.
@@ -40,8 +40,8 @@ voice or CLI — your choice
 
 clone + setup:
 
-gh repo clone FAHHHH-lab/VoiceAssist
-cd VoiceAssist
+gh repo clone ThatOneGlitchedGuy/Fast-Assist
+cd Fast-Assist
 
 python3.11 -m venv env
 source env/bin/activate
@@ -101,4 +101,8 @@ select mode:
 
 ---
 
-> FAHHST = fast. local. under your control.
+* no idea why this exists
+
+* probably fine. probably not.
+
+* readme helped by tools, code helped by insomnia
